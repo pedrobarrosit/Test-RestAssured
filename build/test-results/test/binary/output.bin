@@ -1,0 +1,26 @@
+Request method:	GET
+ARequest URI:	https://petstore.swagger.io/v2/user%2F%2F201705272
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+#				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 404 Not Found
+%Date: Sun, 12 Jun 2022 04:40:33 GMT
+Content-Type: application/xml
+Content-Length: 184
+Connection: keep-alive
+ Access-Control-Allow-Origin: *
+6Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+DAccess-Control-Allow-Headers: Content-Type, api_key, Authorization
+ Server: Jetty(9.2.9.v20150224)
+
+<apiResponse>
+U  <message>null for uri: http://petstore.swagger.io/v2/user%2F%2F201705272</message>
+  <type>unknown</type>
+</apiResponse>
